@@ -26,6 +26,7 @@ The project focuses on **code transparency**, **implementation details**, and **
 | **`Qeque`**              | FIFO data structure where elements are added to the rear and removed from the front. | ✅ Complete |
 | **`List`**               | Doubly linked list                                   | ✅ Complete   |
 | **`AVL Tree`**           | Self-balancing AVL Tree                             | ✅ Complete  |
+| **`Unordered_map`**           |                             |   |
 
 ---
 
